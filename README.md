@@ -7,4 +7,13 @@ Igrač informacije dobija kroz grafove i tekst o promjeni varijabli svoje banke 
 
 Projekt je napravljen u Unity-u uz pomoć MLAgents tehnologije.
 
+Nažalost zbog kratkog vremena projekt nije u potpunosti realiziran.
+
+
+
+![3](https://github.com/user-attachments/assets/54daae66-c7fc-49de-ad6f-0da36160f20d)
+![1](https://github.com/user-attachments/assets/c6d70a0e-9b58-474d-8a62-79030e533785)
+![2](https://github.com/user-attachments/assets/58b34342-6e13-453a-aeeb-e21df719b23d)
+
+
 
